@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikem-iro" alt="ikem-iro" /></a> </p>
 
-- 🌱 I’m currently learning **Python and FastApi. Go**
+- 🌱 Currently learning **Python and FastApi. Go**
 
 - 💬 Ask me about **Nodejs, ExpressJS and Python**
 
